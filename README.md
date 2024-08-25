@@ -1,4 +1,4 @@
-# CodeAlpha_Task1_Titanic_Classification_Ankita_Jadhav
+# Titanic_Classification_Ankita_Jadhav
 # Titanic Classification System
 
 The Titanic Classification system is designed to predict whether a passenger would survive the Titanic disaster based on various factors like socio-economic status, age, gender, and more.
